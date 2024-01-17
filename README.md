@@ -1,4 +1,4 @@
-# Gender-Based-iolence
+# Gender-Based-Violence
 Gender Based violence report
 # Summary of the Notebook
 Data analysis: The notebook reads the data from two CSV files that contain the pre-intervention and post-intervention knowledge assessment scores of male and female participants on gender-based violence (GBV). It converts the categorical variables into numerical values and calculates the mean scores of each question for each group.
